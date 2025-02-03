@@ -1,6 +1,8 @@
 ﻿public class MeuComercio
 /* o corpo de código terão comentários indicando qual propriedade do c# estará sendo usado, 
-a fim de conferir se utilizei tudo ou esqueci de algo rs*/
+a fim de conferir se utilizei tudo ou esqueci de algo rs
+    Estou aqui
+*/
 {
     static List<ProdutosBase> listaProdutos = new() // usando listas
     {
