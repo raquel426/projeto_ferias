@@ -14,7 +14,7 @@ a fim de conferir se utilizei tudo ou esqueci de algo rs*/
     {
         bool continuarPrograma = true; // pesquisei uma forma de o programa voltar a rodar após escolher as opcoes
 
-        while (continuarPrograma) // usando laçosss de repetição
+        while (continuarPrograma) // usando laços de repetição
         {
             Console.Clear();
             Console.WriteLine("Bᴇᴍ ᴠɪɴᴅᴏ(ᴀ) ᴀᴏ ꜱɪꜱᴛᴇᴍᴀ ᴅᴀ Qᴜɪᴛᴀɴᴅᴀ ᴅᴀ Vɪʟᴀ!");
