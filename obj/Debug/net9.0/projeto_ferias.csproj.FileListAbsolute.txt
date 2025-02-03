@@ -1,0 +1,14 @@
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.AssemblyInfoInputs.cache
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.AssemblyInfo.cs
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.csproj.CoreCompileInputs.cache
+C:\Users\larap\Desktop\C#\projeto_ferias\bin\Debug\net9.0\projeto_ferias.exe
+C:\Users\larap\Desktop\C#\projeto_ferias\bin\Debug\net9.0\projeto_ferias.deps.json
+C:\Users\larap\Desktop\C#\projeto_ferias\bin\Debug\net9.0\projeto_ferias.runtimeconfig.json
+C:\Users\larap\Desktop\C#\projeto_ferias\bin\Debug\net9.0\projeto_ferias.dll
+C:\Users\larap\Desktop\C#\projeto_ferias\bin\Debug\net9.0\projeto_ferias.pdb
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.dll
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\refint\projeto_ferias.dll
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.pdb
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\projeto_ferias.genruntimeconfig.cache
+C:\Users\larap\Desktop\C#\projeto_ferias\obj\Debug\net9.0\ref\projeto_ferias.dll

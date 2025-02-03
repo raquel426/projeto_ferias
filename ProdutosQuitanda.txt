@@ -1,0 +1,7 @@
+Produtos Disponíveis:
+-------------------------------
+Nome: Arroz, Preço: R$22,90, Quantidade: 10
+Nome: Feijao, Preço: R$13,45, Quantidade: 12
+Nome: Oleo, Preço: R$11,00, Quantidade: 7
+Nome: Sal, Preço: R$4,90, Quantidade: 5
+Nome: bosta, Preço: R$50,00, Quantidade: 1
